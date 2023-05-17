@@ -21,9 +21,9 @@
 
 <h3> Certifications </h3>
 
-<b>CompTIA Security+</b>
+<b>CompTIA Security+ and PenTest+</b>
 
-<b>Google IT Support Professional</b>
+<b>LPI Linux: Essentials</b>
 
 <!--
 Here are some ideas to get you started:
